@@ -51,7 +51,7 @@ export default function GraphPage() {
             <style>{`@keyframes spin { to { transform: rotate(360deg) } }`}</style>
         </div>
     )
-
+    /*test*/
     return (
         <div>
             <h1 style={{ fontSize: 26, fontWeight: 700, marginBottom: 24 }}>Graph</h1>
